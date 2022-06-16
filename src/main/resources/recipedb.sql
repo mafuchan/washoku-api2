@@ -127,7 +127,7 @@ VALUES
 Remove from heat and add remaining ingredients, stirring well to incorporate. Each time you use the miso broth, you will need to stir well, since the miso will settle to the bottom.
 Never boil your miso broth once the miso has been added, this will break down the miso and cause the soup to be grainy.',
 'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099',
-    );
+);
 
 INSERT into
     recipes(id, name, ingredients, directions, image)
@@ -145,4 +145,4 @@ VALUES
 • benishoga (red ginger) for topping',
 'Cook Japanese rice. Slice onion thinly. Cut beef into bite-sized pieces. Put dashi, soysauce, sugar, mirin, and sake in a pan. Add onion slices in the pot and simmer for a few minutes. Add beef in the pan and simmer for a few minutes. Serve hot steamed rice in a deep rice bowl. Put the beef topping on the top of rice. Place some benishoga (red ginger) on the top if you would like.',
 'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099',
-    );
+);

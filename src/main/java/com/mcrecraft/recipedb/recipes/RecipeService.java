@@ -30,6 +30,7 @@ public class RecipeService {
             updatedRecipe.setName(recipe.getName());
             updatedRecipe.setIngredients(recipe.getIngredients());
             updatedRecipe.setDirections(recipe.getDirections());
+            updatedRecipe.setImage(recipe.getImage());
 
             recipeRepository.save(updatedRecipe);
             return Optional.of(updatedRecipe);
