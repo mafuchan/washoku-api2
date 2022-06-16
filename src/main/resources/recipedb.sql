@@ -78,7 +78,7 @@ VALUES
 • Okonomiyaki sauce (or tonkatsu sauce)
 • Japanese Mayonnaise',
 'Cut the cabbage into very thin slices. Beat an egg in a bowl and add dashi soup stock or water in it. Add flour in the bowl and mix well. Combine sliced cabbage in the flour mixture. Fry meat/squid/shrimps (your choice of toppings) in an electric cooking pan or a frying pan. Pour the flour mixture over the toppings in the pan.(Make a couple pan cakes.) Cook a few minutes and flip pancakes and cook for a few more minutes. Put okonomiyaki sauce and mayonnaise on top of the pan cakes. Sprinkle katsuobushi flakes, aonori, beni-shoga on top.',
-'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099',
+'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099'
     );
 
 INSERT into
@@ -107,7 +107,7 @@ VALUES
 'In a large saute pan or wok on medium high and add peanut oil. Add mussels and clams to pan and cook for one minute. Add salmon and halibut, season with salt and pepper and cook for 2 minutes. Deglaze pan with sake and lemon juice. Add pea shoots, bok choy, and shrimp and cook for one minute or until shrimp is cooked.
 Place cooked udon noodles in bottom of large soup bowl or split into four bowls for individual servings. Arrange cooked seafood and vegetables over udon noodles and pour miso broth over to cover. Arrange cherry tomato halves on top of soup.
 Drizzle soup with hot chile oil; add more or less to your preference, and garnish with scallion threads.',
-'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099',
+'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099'
     );
 
 INSERT into
@@ -126,7 +126,7 @@ VALUES
 'Place cold water in pot with kombu and heat until just before boiling. Remove kombu and discard. Add dashi and bring to a boil turn off heat and let stand one minute. Strain broth through fine sieve.
 Remove from heat and add remaining ingredients, stirring well to incorporate. Each time you use the miso broth, you will need to stir well, since the miso will settle to the bottom.
 Never boil your miso broth once the miso has been added, this will break down the miso and cause the soup to be grainy.',
-'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099',
+'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099'
 );
 
 INSERT into
@@ -144,5 +144,5 @@ VALUES
 • 1 tsp sake
 • benishoga (red ginger) for topping',
 'Cook Japanese rice. Slice onion thinly. Cut beef into bite-sized pieces. Put dashi, soysauce, sugar, mirin, and sake in a pan. Add onion slices in the pot and simmer for a few minutes. Add beef in the pan and simmer for a few minutes. Serve hot steamed rice in a deep rice bowl. Put the beef topping on the top of rice. Place some benishoga (red ginger) on the top if you would like.',
-'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099',
+'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099'
 );
